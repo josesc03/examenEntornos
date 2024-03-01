@@ -2,3 +2,6 @@ Contesta la pregunta y realiza un commit a la rama correspondiente a la pregunta
 
 PREGUNTA A - Explica con tus propias palabras qué es y cómo funciona git. Para ello define y explica la función de los elementos que lo forman: (commit, branch, tree, blob). 
 respuesta: git es una herramienta de control de versiones en que funciona mediante commits que son puntos donde se hacen cambios especificos, estos commits estan dentro de branchs que son ramas en las que se van haciendo commits para realizar los cambios, head es la rama en la que estás, main o master es la rama en principal, y las demas pueden tener los nombres que se quiera, estas ramas en las que se realizan cambios especificos o resolucion de errores, o para cualquier tipo de commit, estan en el tree que es la estructura general las ramas y commits, como si fuera un arbol con sus manzanas.
+
+PREGUNTA B - Explica los cuatro "lugares" donde pueden encontrarse los archivos que forman parte de un repositorio GIT. Nombra el comando para mover un archivo de un espacio a otro con la siguiente sintaxys: [LugarInicial - LugarFinal => comando]
+Respuesta: HEADERS, LOGS, BRANCHES, BACKUPS, GIT LUGARINICIAL LUGARFINAL MV
